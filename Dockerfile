@@ -1,4 +1,4 @@
-FROM hegand/java:openjdk8
+FROM hegand/jdk:openjdk8
 
 ENV MESOS_VERSION 1.0.1
 
